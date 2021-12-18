@@ -1,0 +1,115 @@
+* {
+    padding: .19em;
+    cursor: pointer;
+    flex-wrap: wrap;
+}
+
+.fContainer {
+    background-color: #333;
+    width: auto;
+    height: auto;
+}
+
+#pr1m3val {
+    background-color: transparent;
+    color: #ad0808;
+    font-family: "Butcherman", fantasy;
+    font-size: 7.5vw;
+    text-align: center;
+    text-shadow: 0 0 0.75em #fd6908;
+    text-shadow: 0 0 0.5em #666;
+}
+
+#slogan {
+    background-color: transparent;
+    color: #fd6908;
+    font-family: "Lucida Calligraphy", fantasy;
+    font-size: 2.75vw;
+    text-align: center;
+    text-shadow: 0 0 0.75em #ad0808;
+    text-shadow: 0 0 0.5em #666;
+    font-variant: small-caps;
+}
+
+#sloganLast {
+    font-size: 5.75vw;
+    color: #ad0808;
+}
+
+.center {
+    background-color: #333;
+    text-align: center;
+}
+
+q, p {
+    text-align: center;
+    color: #fd6908;
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 1.25em;
+}
+
+#navigation {
+    background-color: #666;
+    color: #ad0808;
+    font-family: "Lucida Calligraphy", fantasy;
+    font-size: 1.9em;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+details {
+    padding-bottom: .5em;
+    margin-bottom: .5em;
+}
+
+.links, .links1, .links2, .links3, links4 {
+    font-family: Times New Roman, serif;
+    font-size: 1.75em;
+    color: #fd6908;
+    text-align: left;
+}
+
+a {
+    font-size: 1.1em;
+    display: block;
+}
+
+a:link {
+    font-family: "Lucida Calligraphy", fantasy;
+    color: #fd6908;
+}
+
+a:visited {
+    font-family: "Lucida Console", monospace;
+    color: #ad0808;
+}
+
+a:hover {
+    font-family: "Lucida Console", monospace;
+    font-size: 1.4em;
+    color: #aaaaaa;
+}
+
+.indent1 {
+    text-indent: 0.8em;
+}
+
+.indent2 {
+    text-indent: 1.6em;
+}
+
+.indent3 {
+    text-indent: 2.4em;
+}
+
+.indent4 {
+    text-indent: 3.2em;
+}
+
+.indent5 {
+    text-indent: 4em;
+}
+
+.navPanel {
+    background-color: #444:
+}
